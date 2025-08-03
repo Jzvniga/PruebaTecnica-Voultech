@@ -256,6 +256,12 @@ Se incluyen pruebas unitarias enfocadas en:
 dotnet test
 ```
 
+Fotos en postman
+<img width="1440" height="823" alt="image" src="https://github.com/user-attachments/assets/8414fa10-810d-4bdf-85e4-541016b29245" />
+
+
+
+
 ---
 
 ## Decisiones Técnicas
@@ -285,4 +291,3 @@ Para cualquier consulta sobre este proyecto, puedes contactarme a través de:
 - GitHub: [Jzvniga](https://github.com/Jzvniga)
 - Email: [jzunigadevelopment@gmail.com]
 
-**Proyecto desarrollado como parte de una prueba técnica.**
