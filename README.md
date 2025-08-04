@@ -239,9 +239,20 @@ GET /api/ordenes?NumeroPagina=1&ElementosPorPagina=10
     }
   ]
 }
-```
 
----
+```
+Fotos en postman:
+
+Pedir todos los productos
+<img width="1440" height="823" alt="image" src="https://github.com/user-attachments/assets/8414fa10-810d-4bdf-85e4-541016b29245" />
+
+Crear una orden
+<img width="1422" height="824" alt="image" src="https://github.com/user-attachments/assets/7754e766-9a55-4a15-857d-687560e38cbc" />
+
+Actualizar Orden 
+<img width="1378" height="397" alt="image" src="https://github.com/user-attachments/assets/c59077c9-ab17-4113-9409-62133879f860" />
+<img width="1387" height="621" alt="image" src="https://github.com/user-attachments/assets/cedcc930-c6bd-41da-99f9-ae014d146ea7" />
+
 
 ## 🧪 Pruebas Unitarias
 
@@ -255,20 +266,6 @@ Se incluyen pruebas unitarias enfocadas en:
 ```bash
 dotnet test
 ```
-
-Fotos en postman:
-
-Pedir todos los productos
-<img width="1440" height="823" alt="image" src="https://github.com/user-attachments/assets/8414fa10-810d-4bdf-85e4-541016b29245" />
-
-Crear una orden
-<img width="1422" height="824" alt="image" src="https://github.com/user-attachments/assets/7754e766-9a55-4a15-857d-687560e38cbc" />
-
-Actualizar Orden 
-<img width="1378" height="397" alt="image" src="https://github.com/user-attachments/assets/c59077c9-ab17-4113-9409-62133879f860" />
-<img width="1387" height="621" alt="image" src="https://github.com/user-attachments/assets/cedcc930-c6bd-41da-99f9-ae014d146ea7" />
-
----
 
 ## Decisiones Técnicas
 
