@@ -289,7 +289,6 @@ dotnet test
 
 ## Contacto
 
-Para cualquier consulta sobre este proyecto, puedes contactarme a través de:
 - LinkedIn: [Jose Zuniga](https://www.linkedin.com/in/jose-zuniga-o/)
 - GitHub: [Jzvniga](https://github.com/Jzvniga)
 - Email: [jzunigadevelopment@gmail.com]
