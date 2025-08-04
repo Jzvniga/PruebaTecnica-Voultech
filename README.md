@@ -264,6 +264,7 @@ Se incluyen pruebas unitarias enfocadas en:
 **Para ejecutarlas:**
 
 ```bash
+cd OrdenesApi.Tests
 dotnet test
 ```
 
