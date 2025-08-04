@@ -33,7 +33,7 @@ Una API REST desarrollada en .NET 7 para administrar órdenes de compra y produc
 
 - [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 - [SQL Server LocalDB](https://learn.microsoft.com/es-es/sql/database-engine/configure-windows/sql-server-express-localdb)
-- Visual Studio 2022 o Visual Studio Code
+- Visual Studio 2022
 
 ---
 
